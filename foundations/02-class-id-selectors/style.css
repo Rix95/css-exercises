@@ -1,0 +1,20 @@
+.pi {
+  background-color: rgb(182, 124, 124);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.pi.unique {
+  background-color: rgb(182, 124, 124);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  font-size: 24px;
+}
+
+#first-id {
+  color: blue;
+  font-size: 36px;
+}
+
+#second-id {
+  background-color: lightgreen;
+  font-size: 24px;
+}
